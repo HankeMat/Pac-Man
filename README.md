@@ -95,4 +95,4 @@ And then run using this command:
             + map2.txt
             + testMap.txt (no use just for testing purposes)
 
-[My github](https://github.com/HankeMat){:target="_blank"}
+[My github](https://github.com/HankeMat)
