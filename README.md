@@ -95,4 +95,15 @@ And then run using this command:
             + map2.txt
             + testMap.txt (no use just for testing purposes)
 
-[My github](https://github.com/HankeMat)
+# How to play
+## Key bindings
+- Directional arrow buttons   - Move Pac-Man in desired direction
+- Escape button               - Back / Exit
+
+## Goal of the game
+- You (Pac-Man) have 3 lives. Within these lives you are supposed to eat as much pills as possible (1 pill = 10 points). In other words your goal is to have the most points possible.
+- You can move in 4 directions (up, down, left, right). But beware of the ghosts that wants to eat you! If any ghost touches you, you will be respawned and 1 life will be taken from you. If you have no lives left the game is over and final amount of points will/or will not be your new high score.
+- Don't worry though, you can fight against ghosts with special big pills that are randomly generated across the map. If you eat one of these big pills the hunter will become the hunted one and Pac-Man will be able to eat ghosts for certain amount of time (1 eaten ghost = 100 points). Ghost will be than respawned at its spawnpoint and will be hunting you again.
+
+
+[My github account](https://github.com/HankeMat)
